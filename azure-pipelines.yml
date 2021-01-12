@@ -12,4 +12,4 @@ pool:
 steps:
 - task: VSBuild@1
   inputs:
-    solution: '**\*.sln'
+    solution: '**\*.sqlproj'
