@@ -13,3 +13,15 @@ steps:
 - task: VSBuild@1
   inputs:
     solution: '**\*.sqlproj'
+
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(agent.builddirectory)\s'
+    Contents: '**'
+    TargetFolder: '$(build.artifactstagingdirectory)'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'BookCatalog'
+    publishLocation: 'Container'
