@@ -5,6 +5,5 @@ CREATE TABLE [dbo].[Author] (
     CONSTRAINT [pk_AuthorID] PRIMARY KEY CLUSTERED ([AuthorID] ASC)
 );
 
-
 GO
 
