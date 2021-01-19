@@ -14,4 +14,3 @@ CREATE TABLE [dbo].[Book] (
 
 
 GO
-
