@@ -1,0 +1,10 @@
+d:\eliza\repos\DatabaseProjectBookCatalog\bin\Debug\DatabaseProjectBookCatalog.dacpac
+d:\eliza\repos\DatabaseProjectBookCatalog\bin\Debug\DatabaseProjectBookCatalog.dll
+d:\eliza\repos\DatabaseProjectBookCatalog\bin\Debug\DatabaseProjectBookCatalog.pdb
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.sqlprojAssemblyReference.cache
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\Model.xml
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\refactor.xml
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\postdeploy.sql
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\predeploy.sql
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.dll
+d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.pdb

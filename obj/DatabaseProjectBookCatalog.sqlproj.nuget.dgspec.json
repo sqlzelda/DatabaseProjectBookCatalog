@@ -1,0 +1,45 @@
+{
+  "format": 1,
+  "restore": {
+    "d:\\eliza\\repos\\DatabaseProjectBookCatalog\\DatabaseProjectBookCatalog.sqlproj": {}
+  },
+  "projects": {
+    "d:\\eliza\\repos\\DatabaseProjectBookCatalog\\DatabaseProjectBookCatalog.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "d:\\eliza\\repos\\DatabaseProjectBookCatalog\\DatabaseProjectBookCatalog.sqlproj",
+        "projectName": "DatabaseProjectBookCatalog",
+        "projectPath": "d:\\eliza\\repos\\DatabaseProjectBookCatalog\\DatabaseProjectBookCatalog.sqlproj",
+        "packagesPath": "C:\\Users\\eliza\\.nuget\\packages\\",
+        "outputPath": "d:\\eliza\\repos\\DatabaseProjectBookCatalog\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\eliza\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
