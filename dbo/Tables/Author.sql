@@ -7,4 +7,3 @@ CREATE TABLE [dbo].[Author] (
 
 
 GO
-
