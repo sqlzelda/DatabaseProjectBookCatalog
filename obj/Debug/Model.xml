@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="DatabaseProjectBookCatalog.dll" />
-			<Metadata Name="FileName" Value="d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.dll" />
+			<Metadata Name="FileName" Value="D:\ELIZA\REPOS\DATABASEPROJECTBOOKCATALOG\OBJ\DEBUG\DATABASEPROJECTBOOKCATALOG.DLL" />
 			<Metadata Name="AssemblyName" Value="DatabaseProjectBookCatalog" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="d:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="D:\eliza\repos\DatabaseProjectBookCatalog\obj\Debug\DatabaseProjectBookCatalog.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
